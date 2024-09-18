@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there,I'm Ismael Lajud 👋
 
-<!--
-**IsmaelLajud2/IsmaelLajud2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Fullstack developer
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+css3 firebase git html5 javascript mongodb nodejs react reactnative  android   
