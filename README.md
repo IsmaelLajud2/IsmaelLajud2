@@ -2,8 +2,9 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🌱  Currently looking for a job in a company and doing freelance projects
+- 🌅 Located in Spain
 - 🗣️ I speak English and Spanish
-- 💬 Talk to me about 
+- 💬 Talk to me about Code ,Proyects ,Exercise 💻💪
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ismael-lajud/"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" heigth="15" width="15" /> </a><a href="mailto:ismael.lajud65@gmail.com">
 <img src="https://cdn.discordapp.com/attachments/1019371264860770376/1057314600468611092/gmail.png" heigth="15" width="15" /> </a> 
 
