@@ -1,7 +1,8 @@
 <h1 align="center">Hey👋, I'm Ismael Lajud</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
->[!NOTE] 🌱  Currently looking for a job in a company and doing freelance projects
+>[!NOTE]
+>🌱  Currently looking for a job in a company and doing freelance projects
 - 🌅 Located in Spain
 - 🗣️ I speak English and Spanish
 - 💬 Talk to me about Code ,Proyects ,Exercise 💻💪
