@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Ismael Lajud</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center"> Fullstack developer</h3>
 
 >[!NOTE]
 >🌱  Currently looking for a job in a company and doing freelance projects
