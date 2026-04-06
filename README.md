@@ -2,7 +2,7 @@
 <h3 align="center"> Fullstack developer</h3>
 
 >[!NOTE]
->🌱  Currently looking for a job in a company and doing freelance projects
+> 🌱  Currently working in a company
 - 🌅 Located in Spain
 - 🗣️ I speak English and Spanish
 - 💬 Talk to me about Code ,Proyects ,Exercise 💻💪
